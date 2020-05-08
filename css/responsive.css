@@ -204,8 +204,10 @@
         font-size: 20px;
     }
     .contact-heading-text h2,
+
     .blog-content p {
         margin-bottom: 30px;
+
     }
     .modal-dialog {
         width: 240px;
